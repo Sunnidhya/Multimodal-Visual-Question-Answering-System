@@ -11,7 +11,16 @@
          different modalities, leading to breakthroughs in tasks such as visual question answering</li>
   </ul>
   <hr>
-  <h4>To know more about our project just click on the pdf</h4>
-  
+  <h4>Know our Project</h4>
+  <ul>
+    <li>We have tried 4 different combinations of bert and vit family with and without using LORA.</li>
+    <li>Each folder contains the code of:
+      <ul>
+        <li>Training the model by giving questions, images, answers and then doing the validation test, to check whether the model giving correct results or not.</li>
+        <li>Testing the model by giving question and image and the model predicts the answer.</li>
+        <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
+      </ul>
+    </li>
+  </ul> 
 
 </h6>
