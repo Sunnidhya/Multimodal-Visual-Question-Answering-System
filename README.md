@@ -34,7 +34,7 @@
 
 
       
-<li>We are </li>
+<li>We are storing the checkpoints of every model and can be used later.</li>
 
 </ul>
 </li>
