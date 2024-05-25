@@ -22,7 +22,7 @@
         <li>Testing the model by giving question and image and the model predicts the answer.</li>
         <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
         <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
-        ```python
+       
 
         
       from google.colab import drive
