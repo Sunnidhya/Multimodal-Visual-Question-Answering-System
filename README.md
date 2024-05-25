@@ -41,6 +41,6 @@
 </ul>
 </h6>
 <hr>
-<h4>To get the detailed analysis of our project, just check the Project Report naming"VR_Final_Report_VQAProject.pdf"</h4>
+<h4>To get the detailed analysis of our project, just check the Project Report naming "VR_Final_Report_VQAProject.pdf" </h4>
 
 
