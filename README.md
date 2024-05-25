@@ -24,7 +24,7 @@
         <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
        
 
-      #Showing just one example from our code  
+      #Showing just one example from our code of lightning_logs of vit-albert-lora model and this file is contained under the folder vit+albert+lora+15000datapts+15epochs/vit-albert-lora- precision
       from google.colab import drive
       drive.mount('/content/drive')
       
