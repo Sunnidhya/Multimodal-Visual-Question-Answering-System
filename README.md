@@ -25,6 +25,10 @@
         ```python
         from google.colab import drive
         drive.mount('/content/drive')
+        ```python
+# Example code block in Python
+print("Hello, World!")
+
       </ul>
     </li>
   </ul>
