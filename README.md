@@ -15,7 +15,7 @@
   <h4>Know our Project</h4>
   <h6>
     <ul>
-    <li>We have tried 4 different combinations of bert and vit family, with and without using LORA.</li>
+    <li>We have tried 4 different combinations of bert and vit family, with and without using LORA on VQAv2 dataset available from Hugging Face.</li>
     <li>Each folder contains the code of:
       <ul>
         <li>Training the model by giving questions, images, answers and then doing the validation test, to check whether the model giving correct results or not.</li>
