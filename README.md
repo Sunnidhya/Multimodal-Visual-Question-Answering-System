@@ -1,4 +1,4 @@
-<h3 style="border-bottom: 2px solid black; display: inline-block; padding-bottom: 5px;"><u>Multimodal-Question-Answering-Model</h3>
+<u><h3>Multimodal-Question-Answering-Model</h3></u>
   <h6>
   <ul>
     <li>BERT and ViT are indeed multimodal models that have been utilized in various applications, particularly in the field of multimodal deep learning.</li>
