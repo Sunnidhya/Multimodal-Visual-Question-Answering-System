@@ -10,8 +10,37 @@
     <li>These multimodal models, by integrating the strengths of BERT and ViT, have significantly advanced the capabilities of machines to understand and interpret data from 
          different modalities, leading to breakthroughs in tasks such as visual question answering</li>
   </ul>
+  </h6>
   <hr>
-  <h4>To know more about our project just click on the pdf</h4>
-  
+  <h4>Know our Project</h4>
+  <h6>
+    <ul>
+    <li>We have tried 4 different combinations of bert and vit family, with and without using LORA.</li>
+    <li>Each folder contains the code of:
+      <ul>
+        <li>Training the model by giving questions, images, answers and then doing the validation test, to check whether the model giving correct results or not.</li>
+        <li>Testing the model by giving question and image and the model predicts the answer.</li>
+        <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
+        <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
+       
 
+      #Showing just one example from our code of lightning_logs of vit-albert-lora model and this file is contained under the folder vit+albert+lora+15000datapts+15epochs/vit-albert-lora- precision
+      from google.colab import drive
+      drive.mount('/content/drive')
+      
+      %load_ext tensorboard
+      %tensorboard --logdir /content/drive/MyDrive/VR_FinalProject_End_Term/VR_PROJECT_FINAL_PROJECT1/VR_PROJECT/vit+albert+lora+15000datapts+15epochs/vit-albert-lora- precision/lightning_logs
+
+
+
+      
+<li>We are storing the checkpoints of every model and can be used later.</li>
+
+</ul>
+</li>
+</ul>
 </h6>
+<hr>
+<h4>To get the detailed analysis of our project, just check the Project Report</h4>
+
+
