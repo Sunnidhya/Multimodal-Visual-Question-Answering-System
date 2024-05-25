@@ -30,7 +30,11 @@
       
       %load_ext tensorboard
       %tensorboard --logdir /content/drive/MyDrive/VR_FinalProject_End_Term/VR_PROJECT_FINAL_PROJECT1/VR_PROJECT/vit+albert+lora+15000datapts+15epochs/vit-albert-lora- precision/lightning_logs
-       <li>We are </li>
+
+
+
+      
+<li>We are </li>
 
 </ul>
 </li>
