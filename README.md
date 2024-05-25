@@ -1,5 +1,5 @@
-<h3><u>Multimodal-Question-Answering-Model</h3><hr>
-<h6>
+<h3 style="border-bottom: 2px solid black; display: inline-block; padding-bottom: 5px;"><u>Multimodal-Question-Answering-Model</h3>
+  <h6>
   <ul>
     <li>BERT and ViT are indeed multimodal models that have been utilized in various applications, particularly in the field of multimodal deep learning.</li>
     <li> BERT, which stands for Bidirectional Encoder Representations from Transformers, is an encoder-only Transformer model that excels in natural language processing tasks 
