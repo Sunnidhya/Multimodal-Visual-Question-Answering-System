@@ -6,6 +6,8 @@
          by predicting masked tokens based on context. On the other hand, ViT, or Vision Transformer, revolutionized computer vision tasks by treating images as fixed-size 
          patches and creating embeddings from them. ViT uses a standard Transformer encoder to process images, allowing for efficient handling of visual data without 
          convolutions.</li>
+    <li>These multimodal models, by integrating the strengths of BERT and ViT, have significantly advanced the capabilities of machines to understand and interpret data from 
+         different modalities, leading to breakthroughs in tasks such as visual question answering</li>
   </ul>
  
   
