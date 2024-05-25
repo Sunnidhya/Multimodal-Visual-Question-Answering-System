@@ -10,9 +10,11 @@
     <li>These multimodal models, by integrating the strengths of BERT and ViT, have significantly advanced the capabilities of machines to understand and interpret data from 
          different modalities, leading to breakthroughs in tasks such as visual question answering</li>
   </ul>
+  </h6>
   <hr>
   <h4>Know our Project</h4>
-  <ul>
+  <h6>
+    <ul>
     <li>We have tried 4 different combinations of bert and vit family with and without using LORA.</li>
     <li>Each folder contains the code of:
       <ul>
@@ -21,6 +23,8 @@
         <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
       </ul>
     </li>
-  </ul> 
+  </ul>
+  </h6>
+   
 
-</h6>
+
