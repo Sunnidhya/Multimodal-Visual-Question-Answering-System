@@ -24,7 +24,7 @@
         <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
        
 
-        
+      #Showing just one example from our code  
       from google.colab import drive
       drive.mount('/content/drive')
       
