@@ -40,6 +40,7 @@
 </li>
 </ul>
 </h6>
-   
+<hr>
+<h4>To get the detailed analysis of our project, just check the Project Report</h4>
 
 
