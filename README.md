@@ -23,11 +23,10 @@
         <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
         <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
         ```python
-        from google.colab import drive
-        drive.mount('/content/drive')
-        ```python
-# Example code block in Python
-print("Hello, World!")
+      from google.colab import drive
+      drive.mount('/content/drive')
+       
+
 
       </ul>
     </li>
