@@ -22,6 +22,7 @@
         <li>Testing the model by giving question and image and the model predicts the answer.</li>
         <li>Lightning-logs:Contain the graph of the metrices: Accuracy, F1 Score, Precision, Recall and Time Taken for Training (TTT).</li>
         <li>To see the graph of the metrices with Tensorboard, write the following code on Google Collab.</li>
+        <li>This architecture can be extended to be evn Video Question Answering as well at Real-time</li>
        
 
       #Showing just one example from our code of lightning_logs of vit-albert-lora model and this file is contained under the folder vit+albert+lora+15000datapts+15epochs/vit-albert-lora- precision
