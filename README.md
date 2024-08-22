@@ -1,4 +1,4 @@
-  <h3>Cross-Modal Visual and Textual Question Answering System</h3>
+  <h3>Multimodal Visual Question Answering System</h3>
   <hr>
   <h6>
   <ul>
